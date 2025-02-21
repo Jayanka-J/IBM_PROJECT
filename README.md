@@ -1,6 +1,14 @@
 <h1 align="center">
        ✨  Quiz Web App  ✨
 </h1>
+<h5>Test and Deploy
+Use the built-in continuous integration in GitLab.
+
+ Get started with GitLab CI/CD
+ Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)
+ Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy
+ Use pull-based deployments for improved Kubernetes management
+ Set up protected environments</h5>
 
 <div align="center">
 
