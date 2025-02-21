@@ -2,20 +2,15 @@
        ✨  Quiz Web App  ✨
 </h1>
 <h5>Test and Deploy
-Use the built-in continuous integration in GitLab.
+Use the built-in continuous integration in GitLab.<br>
 
- Get started with GitLab CI/CD
- Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)
- Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy
- Use pull-based deployments for improved Kubernetes management
+ Get started with GitLab CI/CD<br>
+ Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)<br>
+ Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy<br>
+ Use pull-based deployments for improved Kubernetes management<br>
  Set up protected environments</h5>
 
-<div align="center">
 
-![Badge](https://img.shields.io/badge/Tech_Stack-HTML-orange) ![Badge](https://img.shields.io/badge/CSS-blue) ![Badge](https://img.shields.io/badge/React_Js-cyan)
- ![Badge](https://img.shields.io/badge/-Java_Script-yellow) ![Badge](https://img.shields.io/badge/Version-1.0-green) 
-
-</div>
 
 
 <br />
